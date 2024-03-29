@@ -1,1 +1,1 @@
-export const Gopi = () => <h1>Gopi</h1>;
+export const Gopi = () => <h1>Hello Gopi</h1>;
