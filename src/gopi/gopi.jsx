@@ -1,0 +1,1 @@
+export const Gopi = () => <h1>Gopi</h1>;
