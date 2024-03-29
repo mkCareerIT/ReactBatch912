@@ -1,2 +1,2 @@
-const Prudhvi= ()=><h1>Prudhvi Component</h1>
+const Prudhvi= ()=><h1>Prudhvi  New Component</h1>
 export default Prudhvi;
