@@ -1,2 +1,3 @@
-const Sample =() => <h1>Sample Component</h1>;
+const Sample =() => <h1>Sample upate Component</h1>;
 export default Sample;
+
