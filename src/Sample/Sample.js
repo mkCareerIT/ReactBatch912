@@ -1,2 +1,2 @@
-const Sample = () => <h1>sample Update The Component Akash </h1>
+const Sample = () => <h1> Akash Git Project </h1>
 export default Sample;
